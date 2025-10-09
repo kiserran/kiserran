@@ -19,9 +19,7 @@ I enjoy connecting analytics, visualization, and business context to guide produ
 | Project | Description | Tools |
 |----------|--------------|-------|
 | **Aviation Analytics Dashboard** | Exploratory analysis of U.S. flight delay and cancellation data to identify operational performance drivers. | Python, Pandas, Matplotlib |
-| **Customer Churn Prediction** | Classification model predicting churn likelihood using logistic regression and feature importance analysis. | Python, Scikit-learn |
-| **Retail Sales Forecasting** | Time-series analysis using ARIMA and Prophet to forecast weekly sales trends. | Python, Statsmodels |
-| **Web Traffic Dashboard** | SQL-driven Power BI report visualizing engagement trends across regions. | SQL, Power BI |
+
 
 ### Currently Exploring
 - Advanced Python projects in aviation analytics and predictive modeling  
