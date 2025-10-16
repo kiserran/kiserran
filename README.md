@@ -20,7 +20,7 @@ I enjoy connecting analytics, visualization, and business context to guide produ
 | Project | Description | Tools |
 |----------|--------------|-------|
 | **Delta Ops Delay Analysis** | Exploratory analysis of U.S. flight delays to identify operational and seasonal patterns for Delta. | Python, Pandas, Matplotlib |
-| **Graduate Analytics Projects** | Academic analytics notebooks from M.S. in Business Analytics — includes churn modeling, forecasting, optimization, and NLP applications. | Python, Scikit-learn, Power BI |
+| **Graduate Analytics Projects** | Academic analytics notebooks from M.S. in Business Analytics — includes machine learning modeling, forecasting, optimization| Python, Scikit-learn, Xgboost, Linear Regression |
 
 ---
 
