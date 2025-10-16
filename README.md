@@ -15,12 +15,12 @@ I enjoy connecting analytics, visualization, and business context to guide produ
 **Core Areas:** Data Analysis • Visualization • ML Model Development • Dashboard Automation • UAT & A/B Testing  
 **Frameworks:** Agile / Scrum • Product Lifecycle Management • SAFe  
 
-### 📊 Projects  
+### Projects  
 
 | Project | Description | Tools |
 |----------|--------------|-------|
-| ✈️ **Delta Ops Delay Analysis** | Exploratory analysis of U.S. flight delays to identify operational and seasonal patterns for Delta. | Python, Pandas, Matplotlib |
-| 🎓 **Graduate Analytics Projects** | Academic analytics notebooks from M.S. in Business Analytics — includes churn modeling, forecasting, optimization, and NLP applications. | Python, Scikit-learn, Power BI |
+| **Delta Ops Delay Analysis** | Exploratory analysis of U.S. flight delays to identify operational and seasonal patterns for Delta. | Python, Pandas, Matplotlib |
+| **Graduate Analytics Projects** | Academic analytics notebooks from M.S. in Business Analytics — includes churn modeling, forecasting, optimization, and NLP applications. | Python, Scikit-learn, Power BI |
 
 ---
 
