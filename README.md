@@ -3,32 +3,39 @@
 M.S. in Business Analytics  |  MBA  
 
 ### About Me
-I combine product management and analytics to solve complex operational and business problems through data-driven insight.  
-My background spans product strategy, flight operations, and technology — turning data into measurable outcomes that improve reliability, efficiency, and customer experience.
+I'm a Product Manager with a background in business analytics, data products, and technology, passionate about turning complex data into meaningful insights and impactful product experiences.
 
-I’m passionate about using **Python, SQL, and cloud technologies** to translate messy data into actionable stories.  
-I enjoy connecting analytics, visualization, and business context to guide product and operational decisions.
+My experience spans enterprise data platforms, product strategy, and digital transformation, where I've worked with cross-functional teams to improve decision-making, drive innovation, and deliver measurable business outcomes.
+
+I enjoy exploring the intersection of data, AI, and product innovation, using tools like Python, SQL, and data visualization to investigate ideas, uncover opportunities, and better understand technical possibilities.
+
+This GitHub is a space where I explore new technologies, experiment with analytical approaches, and turn curiosity into practical projects
 
 ### Technical Skills
-**Languages & Tools:** Python (Pandas, NumPy, Scikit-learn, Matplotlib), SQL, Power BI, Tableau  
-**Cloud:** AWS (S3, Redshift, SageMaker), Azure  
-**Core Areas:** Data Analysis • Visualization • ML Model Development • Dashboard Automation • UAT & A/B Testing  
-**Frameworks:** Agile / Scrum • Product Lifecycle Management • SAFe  
+**Languages & Libraries:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, XGBoost) • SQL
+
+**Analytics & Visualization:** Power BI • Tableau • Jupyter Notebooks • Google Colab • Exploratory Data Analysis
+
+**Cloud Technologies:** AWS (S3, Redshift, SageMaker) • Microsoft Azure
+
+**Data Science & Analytics:** Machine Learning • Predictive Modeling • Statistical Analysis • A/B Testing • Forecasting • Optimization
+
+**Product Management:** Data Product Strategy • Product Analytics • KPI Development • Experimentation • Agile / Scrum • SAFe • Customer Experience Initiaves
 
 ### Projects  
 
 | Project | Description | Tools |
 |----------|--------------|-------|
-| **Delta Ops Delay Analysis** | Exploratory analysis of U.S. flight delays to identify operational and seasonal patterns for Delta. | Python, Pandas, Matplotlib |
-| **Graduate Analytics Projects** | Academic analytics notebooks from M.S. in Business Analytics — includes machine learning modeling, forecasting, optimization| Python, Scikit-learn, Xgboost, Linear Regression |
+| **Delta Ops Delay Analysis** | Explored publicly available flight performance data to identify operational trends, seasonal patterns, and opportunities for data-informed decision-making. | Python, Pandas, Matplotlib |
+| **AI:Machine Learning Projects** | A collection of analytical projects exploring forecasting, machine learning models, and statistical techniques to uncover patterns and evaluate real-world problems.| Python, Scikit-learn, Xgboost, Linear Regression |
 
 ---
 
-
-### Currently Exploring
-- Advanced Python projects in aviation analytics and predictive modeling  
-- Expanding this GitHub portfolio with Jupyter and Colab notebooks focused on real-world airline operations
-
+### Currently Exploring 
+- AI-powered data exploration and conversational analytics
+- Applying predictive modeling to real-world business problems
+- Building interactive visualizations and analytical workflows
+- Experimenting with emerging AI tools and their applications in data products
 
 ---
 
